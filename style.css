@@ -1,0 +1,11 @@
+body {
+    background-color:#1da1f2;
+}
+
+.contenedor {
+    background-color: azure;
+    width: 600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
