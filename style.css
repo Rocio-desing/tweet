@@ -6,9 +6,14 @@ body {
 .contenedor {
     background-color: white;
     width: 600px;
+    height: 207px;
     padding: 20px;
     border: 5px;
  }
+ .primeraparte {
+    display:flex;
+   align-items:center;
+}
  
  .imagen {
     width: 50px;
@@ -23,4 +28,9 @@ img {
 .identidad {
     font-size: 20px;
     font-weight: bold;
+}
+
+
+.sub3 {
+    font-size:15px;
 }
